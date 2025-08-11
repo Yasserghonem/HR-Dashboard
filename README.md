@@ -1,5 +1,4 @@
-
-HR Dashboard
+# HR Dashboard
 📌 Overview
 The HR Dashboard is an interactive Power BI project designed to help HR teams and management analyze and monitor key workforce metrics.
 It provides insights into employee performance, organization overview, and employee attrition trends through dynamic and visually appealing dashboards.
